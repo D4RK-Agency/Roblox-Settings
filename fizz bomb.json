@@ -1,0 +1,137 @@
+{
+  "replacement_rules": [
+    {
+      "name": "equip anim",
+      "replace_ids": [
+        14509948480
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 106136416209642
+    },
+    {
+      "name": "idle anim",
+      "replace_ids": [
+        14509967864
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134840101984538
+    },
+    {
+      "name": "sprint anim",
+      "replace_ids": [
+        14580328848
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 116339164768827
+    },
+    {
+      "name": "inspect anim",
+      "replace_ids": [
+        14509964565
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 134433050302557
+    },
+    {
+      "name": "throwstart anim",
+      "replace_ids": [
+        14510034776
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 104906929269868
+    },
+    {
+      "name": "throwidle anim",
+      "replace_ids": [
+        14510038568
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 72460464660169
+    },
+    {
+      "name": "throwfinish anim",
+      "replace_ids": [
+        14510046795
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 115457934369279
+    },
+    {
+      "name": "lobfinish",
+      "replace_ids": [
+        14580368724
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 100782723637199
+    },
+    {
+      "name": "rem",
+      "replace_ids": [
+        14580344400,
+        14513998818,
+        14510062019,
+        14580344400
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "sounds",
+      "replace_ids": [
+        14522129645,
+        14522129645
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 119684878895970
+    },
+    {
+      "name": "explosion sound",
+      "replace_ids": [
+        13455969017
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 114857730839982
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17160801411
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 123256093694497
+    },
+    {
+      "name": "BODY",
+      "replace_ids": [
+        14246425872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/sandrovardi5-cmyk/rivalsskinchanger/refs/heads/main/Fizz%20Bomb.obj"
+    },
+    {
+      "name": "rem",
+      "replace_ids": [
+        14246425725,
+        14246425599,
+        14246425489,
+        14246425399,
+        17631605892,
+        14246426125
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}

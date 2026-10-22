@@ -1,0 +1,179 @@
+{
+  "replacement_rules": [
+    {
+      "name": "KeyBowEquip",
+      "replace_ids": [
+        13642496052
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowEquip.rbxm"
+    },
+    {
+      "name": "Arrow",
+      "replace_ids": [
+        13529971872
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/rythmplayzyt/so-meshed-up/raw/refs/heads/main/ARROW8.obj"
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        13529971767,
+        13529971708,
+        13529971513,
+        13529971391
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Body",
+      "replace_ids": [
+        13529971624
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/keybowattempt18.obj"
+    },
+    {
+      "name": "LowIcon",
+      "replace_ids": [
+        17160802080
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 122525140091212
+    },
+    {
+      "name": "HighIcon",
+      "replace_ids": [
+        13717212331
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 101924188286368
+    },
+    {
+      "name": "KeyBowIdle",
+      "replace_ids": [
+        13642501577
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowIdle.rbxm"
+    },
+    {
+      "name": "Shoot",
+      "replace_ids": [
+        13677205703,
+        13677205578,
+        13677205647
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowShoot.wav"
+    },
+    {
+      "name": "Charge",
+      "replace_ids": [
+        13682532502
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 96253147006478
+    },
+    {
+      "name": "Reload",
+      "replace_ids": [
+        13682183816
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowReload.wav"
+    },
+    {
+      "name": "Charge2",
+      "replace_ids": [
+        13744359504
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 90757583550672
+    },
+    {
+      "name": "ShootAnim",
+      "replace_ids": [
+        13642513747
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowShoot.rbxm"
+    },
+    {
+      "name": "ReloadAnim",
+      "replace_ids": [
+        13642520989
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowReload.rbxm"
+    },
+    {
+      "name": "Inspect",
+      "replace_ids": [
+        13642509258
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowInspect.rbxm"
+    },
+    {
+      "name": "ChargeAnim",
+      "replace_ids": [
+        13676489206
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowCharge.rbxm"
+    },
+    {
+      "name": "ChargeLoop",
+      "replace_ids": [
+        13676495796
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowChargeLoop.rbxm"
+    },
+    {
+      "name": "ChargeRelease",
+      "replace_ids": [
+        13676498915
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowChargeRelease.rbxm"
+    },
+    {
+      "name": "Sprint",
+      "replace_ids": [
+        13642505018
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowSprint.rbxm"
+    },
+    {
+      "name": "SecretInspect",
+      "replace_ids": [
+        13642509258
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/KeyBowForFleasion@main/KeyBowRareInspect.rbxm"
+    }
+  ]
+}

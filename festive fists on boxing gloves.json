@@ -1,0 +1,111 @@
+{
+  "replacement_rules": [
+    {
+      "name": "attack 2 anim",
+      "replace_ids": [
+        116913791502033
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 12557516966
+    },
+    {
+      "name": "attack1 anim",
+      "replace_ids": [
+        114196108388891
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 12557515008
+    },
+    {
+      "name": "equip anim",
+      "replace_ids": [
+        118613334706565
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 12557487419
+    },
+    {
+      "name": "idle anim",
+      "replace_ids": [
+        114031465691795
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 12557500357
+    },
+    {
+      "name": "inspect anim",
+      "replace_ids": [
+        106138480662148
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 12557511090
+    },
+    {
+      "name": "inspect sound",
+      "replace_ids": [
+        73893914300609
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 13160489311
+    },
+    {
+      "name": "left fist",
+      "replace_ids": [
+        17600769743
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/shubhraalam38-spec/festive-fists/refs/heads/main/left%20festive%20fist%20finalmodel1.obj"
+    },
+    {
+      "name": "right fist",
+      "replace_ids": [
+        17600769956
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/shubhraalam38-spec/festive-fists/refs/heads/main/right%20festive%20fist%20finalmodel1.obj"
+    },
+    {
+      "name": "rremoveghloves",
+      "replace_ids": [
+        17600769561,
+        17600769859
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "sprint anim",
+      "replace_ids": [
+        75844357551534
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 12644426893
+    },
+    {
+      "name": "icon",
+      "replace_ids": [
+        17672060486
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 98061476050478
+    },
+    {
+      "name": "attack sound",
+      "replace_ids": [
+        17650289572
+      ],
+      "mode": "id",
+      "enabled": true
+    }
+  ]
+}
